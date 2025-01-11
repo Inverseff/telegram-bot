@@ -4,7 +4,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 import openai
 
 # Получение токенов из переменных окружения
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = "8007113493:AAHhkVCFkxp5YrGJiXSE-tYf5o-ephLrO3g"
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Проверяем, загружены ли токены
